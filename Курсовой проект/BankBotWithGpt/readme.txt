@@ -1,0 +1,1 @@
+В appsettings.json необходимо указать свой Api Key OpenAI, который генерируется в личном кабинете на сайте https://platform.openai.com/account/api-keys
