@@ -1,0 +1,15 @@
+{
+  "ApiKeys": {
+    "INTRADESC": "1FCB...1E70",
+    "OpenAI": "sk-pr...jU8Z6fDoIA"
+  },
+  "ApiUrls": {
+    "INTRADESC": "https://apigw.intradesk.ru/tasklist/odata/v3/tasks"
+  },
+  "Scheduler": {
+    "PollIntervalMinutes": 5
+  },
+  "Logging": {
+    "LogFilePath": "C:\\Users\\...source\\auto_bug_reporter_logs.txt"
+  }
+}
